@@ -1,9 +1,9 @@
-# bitcoin-computer-keyvalue-store
+# Decentralized Key Value Store
 
-Decentralized Key Value Store
-Built on Bitcoin using the Bitcoin Computer.
+Built on Bitcoin using the [Bitcoin Computer](http://bitcoincomputer.io/).
 
-Relevant Readings
+## Relevant Readings
+
 "An empirical study of Namecoin and lessons for decentralized namespace design", Harry Kalodner, Miles Carlsten, Paul Ellenbogen, Joseph Bonneau, Arvind Narayanan, https://www.cs.princeton.edu/~arvindn/publications/namespaces.pdf
 
 "zerotier/lf", https://github.com/zerotier/lf
